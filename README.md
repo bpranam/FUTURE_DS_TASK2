@@ -51,3 +51,4 @@ The goal of this project was to create a centralized reporting tool for marketin
 4. Use the **Date Slicer** at the top right to filter the entire report by specific periods.
 
 ---
+#Screenshot:https://github.com/bpranam/FUTURE_DS_TASK2/blob/main/DS_TASK2.JPG
